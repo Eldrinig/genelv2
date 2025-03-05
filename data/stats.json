@@ -1,0 +1,13 @@
+{
+  "totalTickets": 10,
+  "openTickets": 3,
+  "closedTickets": 10,
+  "categoryStats": {
+    "Teknik Destek": 6,
+    "Şikayet": 2,
+    "Genel Destek": 2
+  },
+  "userTickets": {
+    "1234873133010255924": 6
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "token": "token",
+  "clientId": "botid",
+  "guildId": "sunucuid",
+  "supportCategoryId": "destekkategori",
+  "supportRoleId": "destekrol",
+  "transcriptChannelId": "transkriptkanalid",
+  "maxTicketsPerUser": 3,
+  "ticketTypes": [
+    {
+      "label": "Genel Destek",
+      "emoji": "❓",
+      "value": "general"
+    },
+    {
+      "label": "Teknik Destek",
+      "emoji": "🔧",
+      "value": "technical"
+    },
+    {
+      "label": "Şikayet",
+      "emoji": "⚠️",
+      "value": "complaint"
+    }
+  ],
+  "weatherApiKey": "api",
+  "translateApiKey": "api",
+  "exchangeApiKey": "api"
+}
